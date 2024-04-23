@@ -1,10 +1,10 @@
 {
-    "name": "My plugin",
+    "name": "Calabriastraordinaria",
     "version": "0.0.1",
-    "description": "Description of my_plugin.",
+    "description": "This is a official plugin of calabriastraordinaria https://calabriastraordinaria.it/",
     "author_name": "Me",
     "author_url": "https://mywebsite.me",
-    "plugin_url": "https://github.com/my_name/my_plugin",
-    "tags": "cat, template, example",
-    "thumb": "https://raw.githubusercontent.com/my_repo_path/my_plugin.png"
+    "plugin_url": "https://github.com/my_name/calabriastraordinaria",
+    "tags": "prompt, memory, settings, advanced",
+    "thumb": "https://calabriastraordinaria.it/api/image-loader?url=%2Fstorage%2Fimages%2F3642%2Flogo-calabria-straordinaria1.png&w=1200&q=75"
 }
